@@ -7,30 +7,36 @@ I am a former researcher, always passionate about technology, who decided to tur
 - 📓 **Databases:** MySQL, SQLite3
 - 📚 **Currently learning:** PHP, JavaScript, Frameworks, Scrum
 
-    
+##
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,bootstrap,c,css,js,mysql,sqlite,php,py,wordpress" />
+  </a>
+</p>
+
+<hr height="1">
+
 ### ℹ About Me 
 
-Hi there! I'm a Millennial, approaching my 40s, who was always curious and passionate about technology. At 16, I started blogging, sharing my daily experiences and teenage thoughts. That's when I began experimenting with web design using Microsoft FrontPage, tweaking HTML codes, and learning by myself to customize my blog templates. This marked my first steps into coding.
+I'm a Millenial who saw the internet rising and started to learn how to "code" by tweaking HTML codes to customize my own blog templates as a teenager. Technology was always a personal interest of mine, but not my first career choice. I followed another personal interest of mine as a researcher in fertility for more than 10 years before I decided to transition to IT in 2022.
 
-My dream of working with dolphins led me to veterinary school, where I developed a passion for reproductive physiology. I pursued this through my Master's, PhD, and post-doctoral research (though not with dolphins!). My career brought me amazing collaborations and the opportunity to move from Brazil to Belgium, where I live now with my husband and our two kids. Despite my accomplishments, the demands of academia and my growing family made me reconsider my path, a contemplation that had first emerged during my PhD studies, ten years before.
+After one year of intensive Dutch lessons, I started to build my foundations in Computer Science with [Harvard's CS50 Online Course](https://cs50.harvard.edu/x/2024/). I am currently following a full-time course on Fullstack delopment with the support of the Belgian government.
 
-In 2022, I started transitioning to IT. After completing my Dutch lessons, I followed some online programming courses. [Harvard's CS50](https://cs50.harvard.edu/x/2024/) was fundamental to [build a sold foundation](https://submit.cs50.io/users/janicemv) in Computer Science. After finishing it, I started a programming course with the support from the Belgian government, which is currently my main occupation (together, of course, with raising the kids and all the rest 🥰).
+- **Personal interests:** Stars, communication, writing, fantasy, science
+- **Professional interests:** Software development, automatization of processes, design, data analyses, data management
 
-- 🌟 Fun fact: I'm passionate about stars! This special interest is now part of my coding exercises as well. :)
+##
 
-###
-
-<div> 
+<div align="center"> 
   <a href = "mailto:janice.vilela@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/janicevilela/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+<hr height="1">
 
-<!-- ##
-
-<div style="display: inline_block">
+<div align="center">
   <a href="https://github.com/janicemv">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=janicemv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janicemv&layout=compact&theme=dracula&include_all_commits=true&count_private=true&show_icons=true"/>
 </div>
--->
+
