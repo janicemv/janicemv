@@ -15,4 +15,12 @@ My dream of working with dolphins led me to veterinary school, where I developed
 
 In 2022, I started transitioning to IT. After completing my Dutch lessons, I followed some online programming courses. [Harvard's CS50](https://cs50.harvard.edu/x/2024/) was fundamental to build a sold foundation in Computer Science. After finishing it, I started a programming course with the support from the Belgian government, which is currently my main occupation (together, of course, with raising the kids and all the rest 🥰).
 
-- 🌟 Fun fact: I'm passionate about stars! They became a special interest of mine, which are now part of my programming exercises as well. :)
+- 🌟 Fun fact: I'm passionate about stars! This special interest is now part of my coding exercises as well. :)
+
+##
+
+<div> 
+  <a href = "mailto:janice.vilela@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/janicevilela/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
