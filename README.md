@@ -14,7 +14,7 @@ Hi there! I'm a Millennial, approaching my 40s, who was always curious and passi
 
 My dream of working with dolphins led me to veterinary school, where I developed a passion for reproductive physiology. I pursued this through my Master's, PhD, and post-doctoral research (though not with dolphins!). My career brought me amazing collaborations and the opportunity to move from Brazil to Belgium, where I live now with my husband and our two kids. Despite my accomplishments, the demands of academia and my growing family made me reconsider my path, a contemplation that had first emerged during my PhD studies, ten years before.
 
-In 2022, I started transitioning to IT. After completing my Dutch lessons, I followed some online programming courses. [Harvard's CS50](https://cs50.harvard.edu/x/2024/) was fundamental to build a sold foundation in Computer Science. After finishing it, I started a programming course with the support from the Belgian government, which is currently my main occupation (together, of course, with raising the kids and all the rest 🥰).
+In 2022, I started transitioning to IT. After completing my Dutch lessons, I followed some online programming courses. [Harvard's CS50](https://cs50.harvard.edu/x/2024/) was fundamental to [build a sold foundation](https://submit.cs50.io/users/janicemv) in Computer Science. After finishing it, I started a programming course with the support from the Belgian government, which is currently my main occupation (together, of course, with raising the kids and all the rest 🥰).
 
 - 🌟 Fun fact: I'm passionate about stars! This special interest is now part of my coding exercises as well. :)
 
