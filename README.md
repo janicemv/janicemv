@@ -3,9 +3,9 @@
 I am a former researcher, always passionate about technology, who decided to turn this passion into a career. Now I am on my way to becoming a fullstack developer.
 
 - 💻 **Frontend**: HTML/CSS
-- ⌨️ **Backend:** JavaScript/Python (beginner)
+- ⌨️ **Backend:** JavaScript/Python/PHP
 - 📓 **Databases:** MySQL, SQLite3
-- 📚 **Currently learning:** PHP, JavaScript, Frameworks, Scrum
+- 📚 **Currently learning:** JavaScript, Frameworks, Scrum
 
 ##
 <p align="center">
