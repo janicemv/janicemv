@@ -4,7 +4,7 @@ I am a former researcher, always passionate about technology, who decided to tur
 
 - 💻 **Frontend**: HTML/CSS
 - ⌨️ **Backend:** JavaScript/Python/PHP
-- 📓 **Databases:** MySQL, SQLite3
+- 📓 **Databases:** MySQL, SQLite3, MariaDB
 - 📚 **Currently learning:** JavaScript, Frameworks, Scrum
 
 ##
