@@ -2,15 +2,15 @@
 
 I am a former researcher, always passionate about technology, who decided to turn this passion into a career. Now I am on my way to becoming a fullstack developer.
 
-- 💻 **Frontend**: HTML/CSS/Bootstrap
-- ⌨️ **Backend:** JavaScript/Python/PHP
-- 📓 **Databases:** MySQL, SQLite3, MariaDB
-- 📚 **Currently learning:** JavaScript, Frameworks, Scrum
+- 💻 **Frontend**: HTML, CSS, Bootstrap, Tailwind
+- ⌨️ **Backend:** JavaScript, PHP, Python, Laravel
+- 📓 **Databases:** MySQL, SQLite, MariaDB
+- 📚 **Currently learning:** React, Node.js
 
 ##
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,bootstrap,c,css,js,mysql,sqlite,php,py,wordpress" />
+    <img src="https://skillicons.dev/icons?i=html,bootstrap,c,css,js,mysql,sqlite,php,py,wordpress,laravel,tailwind,react" />
   </a>
 </p>
 
