@@ -10,7 +10,7 @@ I am a former researcher, always passionate about technology, who decided to tur
 ##
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,bootstrap,c,css,js,mysql,sqlite,php,py,wordpress,laravel,tailwind,react" />
+    <img src="https://skillicons.dev/icons?i=html,bootstrap,c,css,js,mysql,sqlite,php,py,wordpress,laravel,tailwind,react,vite" />
   </a>
 </p>
 
