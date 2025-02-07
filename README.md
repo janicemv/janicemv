@@ -23,7 +23,7 @@ I'm a Millenial who saw the internet rising and started to learn how to "code" b
 After one year of intensive Dutch lessons, I started to build my foundations in Computer Science with [Harvard's CS50 Online Course](https://cs50.harvard.edu/x/2024/). I am currently following a full-time course on Fullstack delopment with the support of the Belgian government.
 
 - **Personal interests:** Stars, crochet, writing, fantasy, science
-- **Professional interests:** Software development, automatization of processes, design, data analyses, data management
+- **Professional interests:** Software development, automation of processes, design, data analyses, data management
 
 ##
 
