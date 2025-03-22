@@ -1,11 +1,11 @@
 # ✨ Hello! I'm Janice! 
 
-I am a former researcher, always passionate about technology, who decided to turn this passion into a career. Now I have started my new path as a Fullstack developer.
+I am a data-driven full-stack developer with a strong analytical background, passionate about automating processes, improving accessibility, and structuring complex information in a clear and intuitive way.
 
 - 💻 **Frontend**: HTML, CSS, Bootstrap, Tailwind
 - ⌨️ **Backend:** JavaScript, PHP, Python, Laravel
 - 📓 **Databases:** MySQL, SQLite, MariaDB
-- 📚 **Currently learning:** React, Node.js
+- 📚 **Currently learning:** React, Node.js, Django
 
 ##
 <p align="center">
@@ -20,7 +20,7 @@ I am a former researcher, always passionate about technology, who decided to tur
 
 I'm a Millenial who saw the internet rising and started to learn how to "code" by tweaking HTML codes to customize my own blog templates as a teenager. Technology was always a personal interest of mine, but not my first career choice. I followed another personal interest of mine as a researcher in fertility for more than 10 years before I decided to transition to IT in 2022.
 
-In just two years since switching careers, I have earned my Dutch language proficiency certificate and gained hands-on experience with multiple programming languages and frameworks, including C, Python, HTML, CSS, JavaScript, PHP, Bootstrap, Tailwind, Laravel, React, and SQL. I love automating processes, making information accessible, and structuring data in a clear and intuitive way. 
+In just two years since switching careers, I have earned my Dutch language proficiency certificate and gained hands-on experience with multiple programming languages and frameworks, including C, Python, HTML, CSS, JavaScript, PHP, Bootstrap, Tailwind, Laravel, React, SQL, and Django. I love automating processes, making information accessible, and structuring data in a clear and intuitive way. 
 
 Passion and curiosity have driven me to achieve a lot, both professionally and personally. Now that I’m working in the field of my lifelong special interest, I’m excited to grow, learn, and build even more.
 
