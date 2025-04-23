@@ -2,7 +2,7 @@
 
 I am a data-driven full-stack developer with a strong analytical background, passionate about automating processes, improving accessibility, and structuring complex information in a clear and intuitive way.
 
-- 💻 **Frontend**: HTML, CSS, Bootstrap, Tailwind, React
+- 💻 **Frontend**: HTML, CSS, Bootstrap, Tailwind, Blade, React
 - ⌨️ **Backend:** JavaScript, PHP, Python, Laravel, Django
 - 📓 **Databases:** MySQL, SQLite, MariaDB
 - 📚 **Currently learning:** UI, Testing, CI/CD, Scalability, Security
