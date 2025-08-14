@@ -5,8 +5,7 @@ I am a data-driven full-stack developer with a strong analytical background, pas
 - 💻 **Frontend**: HTML, CSS, Bootstrap, Tailwind, Blade, React
 - ⌨️ **Backend:** JavaScript, PHP, Python, Laravel, Django
 - 📓 **Databases:** MySQL, SQLite, MariaDB, PostgreSQL
-- 📚 **Currently learning:** UI, Testing, CI/CD, Scalability, Security, Deployment
-
+- 📚 **Currently learning:** Wagtail
 ##
 <p align="center">
   <a href="https://skillicons.dev">
